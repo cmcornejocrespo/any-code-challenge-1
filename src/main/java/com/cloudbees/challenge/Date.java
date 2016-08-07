@@ -1,4 +1,4 @@
-package com.cloubees.challenge;
+package com.cloudbees.challenge;
 
 import java.util.HashMap;
 import java.util.Map;

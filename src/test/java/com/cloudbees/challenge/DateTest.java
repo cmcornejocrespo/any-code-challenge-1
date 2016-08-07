@@ -1,6 +1,5 @@
-package com.cloubees.challenge;
+package com.cloudbees.challenge;
 
-import com.cloubees.challenge.Date;
 import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.equalTo;
