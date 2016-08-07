@@ -49,11 +49,11 @@ public class Date {
 
     public void add(int numOfDays) {
 
-        while (numOfDays + getDay() > daysPerMonth.get(getMonth())) {
+        while (numOfDays + this.day > daysPerMonth.get(this.month)) {
 
-            numOfDays -= daysPerMonth.get(getMonth());
+            numOfDays -= daysPerMonth.get(this.month);
 
-            if (this.getMonth() < 12) {
+            if (this.month < 12) {
                 this.month++;
             } else {
                 this.month = 1;
