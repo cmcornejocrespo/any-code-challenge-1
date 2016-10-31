@@ -1,4 +1,4 @@
-package com.cloudbees.challenge;
+package com.kata.challenge;
 
 import org.junit.Test;
 

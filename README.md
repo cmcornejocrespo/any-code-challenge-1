@@ -1,4 +1,4 @@
-# cloudbees-sevilla Code Challenge
+# Code Challenge
 
 ## Requirements
 
